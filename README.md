@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi 👋, I'm Syed Anas Ahmed
 
-<!--
-**Mikewhite313/Mikewhite313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Backend Software Engineer based in Germany 🇩🇪
 
-Here are some ideas to get you started:
+I am a Backend Software Engineer with 6+ years of experience building web applications using Laravel, PHP and Node.js. I enjoy designing scalable backend systems, RESTful APIs and solving real-world business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+### Backend
+- PHP
+- Laravel
+- Node.js
+- Express.js
+
+### Databases
+- MySQL
+- MongoDB
+
+### API & Security
+- REST APIs
+- JWT Authentication
+- OAuth2
+
+### Tools
+- Git
+- Linux
+- Postman
+
+### Familiar With
+- Docker
+- DevOps Fundamentals
+- React.js
+- React Native
+
+---
+
+## 🚀 Featured Projects
+
+- Fusion
+- Reliable Savings
+- Expensifier *(In Development)*
+
+---
+
+## 📫 Contact
+
+📍 Koblenz, Germany
+
+📧 ahmedsyedanas3@gmail.com
