@@ -45,7 +45,7 @@ Final Year Project featuring MetaMask authentication, secure file sharing and RE
 ### 🔹 Reliable Savings
 A financial management platform built with Laravel and MySQL.
 
-### 🔹 Web3 Build Distribution Platform
+### 🔹 web3-build-sharing-platform
 A learning project that enables developers to distribute Android and iOS application builds using MetaMask authentication.
 
 ### 🔹 Expensifier *(In Development)*
