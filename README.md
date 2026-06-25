@@ -1,27 +1,28 @@
-# Hi 👋, I'm Syed Anas Ahmed
+# 👋 Hi, I'm Syed Anas Ahmed
 
-## Backend Software Engineer based in Germany 🇩🇪
+## Backend Software Engineer 🇩🇪
 
-I am a Backend Software Engineer with 6+ years of experience building web applications using Laravel, PHP and Node.js. I enjoy designing scalable backend systems, RESTful APIs and solving real-world business problems.
+I'm a Backend Software Engineer based in Germany, with 6+ years of experience building secure and scalable web applications using Laravel, PHP and Node.js.
+
+I enjoy designing backend systems, developing RESTful APIs, integrating third-party services, and solving real-world business problems.
 
 ---
 
 ## 💻 Tech Stack
 
 ### Backend
-- PHP
 - Laravel
+- PHP
 - Node.js
 - Express.js
 
-### Databases
+### Database
 - MySQL
 - MongoDB
 
 ### API & Security
 - REST APIs
 - JWT Authentication
-- OAuth2
 
 ### Tools
 - Git
@@ -38,9 +39,26 @@ I am a Backend Software Engineer with 6+ years of experience building web applic
 
 ## 🚀 Featured Projects
 
-- Fusion
-- Reliable Savings
-- Expensifier *(In Development)*
+### 🔹 Fusion – Web3 File Sharing Platform
+Final Year Project featuring MetaMask authentication, secure file sharing and RESTful APIs.
+
+### 🔹 Reliable Savings
+A financial management platform built with Laravel and MySQL.
+
+### 🔹 Web3 Build Distribution Platform
+A learning project that enables developers to distribute Android and iOS application builds using MetaMask authentication.
+
+### 🔹 Expensifier *(In Development)*
+A modern expense management platform built with Laravel.
+
+---
+
+## 🌱 Currently Learning
+
+- Docker
+- DevOps
+- System Design
+- Software Architecture
 
 ---
 
@@ -49,3 +67,5 @@ I am a Backend Software Engineer with 6+ years of experience building web applic
 📍 Koblenz, Germany
 
 📧 ahmedsyedanas3@gmail.com
+
+💼 LinkedIn *(Coming Soon)*
